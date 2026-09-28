@@ -55,7 +55,7 @@ fun FirstScreen(onNavigateToSecond: () -> Unit) {
         verticalArrangement = Arrangement.Center
     ) {
         Text(
-            text = "Hello Iulia",
+            text = "Hello Faizan",
             style = MaterialTheme.typography.displayMedium,
             textAlign = TextAlign.Center,
             modifier = Modifier
